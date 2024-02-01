@@ -24,7 +24,10 @@
     "sb": "storybook dev --port 6006 -c ../configs/storybook",
     "sb:build": "storybook build -c ../configs/storybook",
     "test:ut": "vitest -c configs/test/vitest.config.ts",
-    "test:ut:coverage": "vitest run -c configs/test/vitest.config.ts --coverage"
+    "test:ut:coverage": "vitest run -c configs/test/vitest.config.ts --coverage",
+    "gen:cm": "npx nuxi@3.10.0 add component $name",
+    "gen:cmb": "npx nuxi@3.10.0 add composable $name",
+    "gen:page": "npx nuxi@3.10.0 add page $name"
   },
   "devDependencies": {
     "@nuxt/test-utils": "^3.11.0",
