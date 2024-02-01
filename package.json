@@ -48,7 +48,7 @@
     "@storybook/builder-vite": "7.6.7",
     "@storybook/testing-library": "^0.2.0",
     "@storybook/vue3": "7.6.7",
-    "@types/node": "^18.19.13",
+    "@types/node": "^20.11.15",
     "@typescript-eslint/eslint-plugin": "^6.20.0",
     "@typescript-eslint/parser": "^6.20.0",
     "@vitest/coverage-v8": "^1.2.2",
