@@ -45,7 +45,7 @@ importers:
         specifier: 7.6.7
         version: 7.6.7(vue@3.4.15)
       '@types/node':
-        specifier: ^18.17.5
+        specifier: ^18.19.13
         version: 18.19.13
       '@vitest/coverage-v8':
         specifier: ^1.2.2
