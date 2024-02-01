@@ -1,4 +1,4 @@
 packages:
-  - "products/**"
+  - "src/**"
   - "docs/**"
-  - "packages/**"
+  - "configs/**"

@@ -4,5 +4,5 @@ export default defineNuxtConfig({
   },
   rootDir: "./src",
 
-  modules: [],
+  modules: ["@nuxtjs/storybook"],
 });
