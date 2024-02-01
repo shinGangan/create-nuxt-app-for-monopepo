@@ -1,0 +1,10 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "@nuxtjs",
+    "github>shinGangan/renovate-config",
+    "github>shinGangan/renovate-config//configs/linters",
+    "github>shinGangan/renovate-config//configs/sb",
+    ":dependencyDashboard"
+  ]
+}
