@@ -11,7 +11,7 @@
  * - Rule1: {@link https://typescript-eslint.io/rules/explicit-function-return-type/ | explicit-function-return-type} - Return Typesの明示を必須にする
  * - Rule2: {@link https://typescript-eslint.io/rules/consistent-type-imports/ | consistent-type-imports} - 型のimportを必須にする
  */
-module.exports = {
+export default {
   root: true,
   ignorePatterns: [
     "**/dist/*",
