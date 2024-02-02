@@ -5,6 +5,7 @@
     "github>shinGangan/renovate-config",
     "github>shinGangan/renovate-config//configs/linters",
     "github>shinGangan/renovate-config//configs/sb",
-    ":dependencyDashboard"
+    ":dependencyDashboard",
+    "schedule:weekly"
   ]
 }
