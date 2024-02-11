@@ -6,5 +6,6 @@
     "github>shinGangan/renovate-config//configs/nuxt/test-utils",
     "github>shinGangan/renovate-config//configs/lint/linters",
     "github>shinGangan/renovate-config//configs/sb"
-  ]
+  ],
+  "reviewers": ["shinGangan"]
 }
