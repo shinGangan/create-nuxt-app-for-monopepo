@@ -1,7 +1,7 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "@nuxtjs",
+    "github>nuxt/renovate-config-nuxt",
     "github>shinGangan/renovate-config",
     "github>shinGangan/renovate-config//configs/nuxt/test-utils",
     "github>shinGangan/renovate-config//configs/lint/linters",
