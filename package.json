@@ -10,10 +10,10 @@
     "url": "https://github.com/Shimpei-GANGAN/create-nuxt-app-for-monopepo"
   },
   "type": "module",
-  "packageManager": "pnpm@8.15.6",
+  "packageManager": "pnpm@8.15.7",
   "engines": {
     "node": "^20.12.2",
-    "pnpm": "^8.15.6"
+    "pnpm": "^8.15.7"
   },
   "scripts": {
     "cleanup": "rimraf node_modules src/node_modules",
