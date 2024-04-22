@@ -39,7 +39,7 @@
     "@nuxt/test-utils": "^3.12.1",
     "@nuxtjs/i18n": "^8.3.0",
     "@nuxtjs/storybook": "7.0.2",
-    "@storybook-vue/nuxt": "0.2.6",
+    "@storybook-vue/nuxt": "0.2.7",
     "@storybook/addon-a11y": "^8.0.8",
     "@storybook/addon-essentials": "8.0.8",
     "@storybook/addon-interactions": "8.0.8",
