@@ -10,10 +10,10 @@
     "url": "https://github.com/Shimpei-GANGAN/create-nuxt-app-for-monopepo"
   },
   "type": "module",
-  "packageManager": "pnpm@9.3.0",
+  "packageManager": "pnpm@9.5.0",
   "engines": {
-    "node": "^20.14.0",
-    "pnpm": "^9.3.0"
+    "node": "^20.15.1",
+    "pnpm": "^9.5.0"
   },
   "scripts": {
     "cleanup": "rimraf node_modules src/node_modules",
@@ -56,7 +56,7 @@
     "eslint": "^8.57.0",
     "eslint-config-eslint": "^9.0.0",
     "eslint-config-prettier": "^9.1.0",
-    "globals": "^15.4.0",
+    "globals": "^15.8.0",
     "happy-dom": "^14.12.0",
     "npm-run-all2": "^6.2.0",
     "nuxt": "^3.12.3",
@@ -67,9 +67,9 @@
     "react-dom": "^18.2.0",
     "rimraf": "^5.0.7",
     "storybook": "8.1.11",
-    "typescript": "^5.4.5",
+    "typescript": "^5.5.3",
     "vitest": "^1.6.0",
     "vue": "^3.4.29",
-    "vue-router": "^4.3.3"
+    "vue-router": "^4.4.0"
   }
 }
