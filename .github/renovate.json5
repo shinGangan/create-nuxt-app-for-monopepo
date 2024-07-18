@@ -1,11 +1,15 @@
 {
+  /*
+    NOTE: https://github.com/shinGangan/renovate-config からextendsして利用する
+  */
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "github>nuxt/renovate-config-nuxt",
     "github>shinGangan/renovate-config",
     "github>shinGangan/renovate-config//configs/nuxt/test-utils",
     "github>shinGangan/renovate-config//configs/lint/linters",
-    "github>shinGangan/renovate-config//configs/sb"
+    "github>shinGangan/renovate-config//configs/sb",
+    ":automergePatch"
   ],
   "reviewers": ["shinGangan"]
 }
