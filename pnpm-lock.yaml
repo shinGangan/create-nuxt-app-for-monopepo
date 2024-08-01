@@ -21,8 +21,8 @@ importers:
         specifier: 0.2.10
         version: 0.2.10(@types/node@20.14.12)(encoding@0.1.13)(eslint@8.57.0)(magicast@0.3.4)(nuxt@3.12.3(@parcel/watcher@2.4.1)(@types/node@20.14.12)(encoding@0.1.13)(eslint@8.57.0)(ioredis@5.4.1)(magicast@0.3.4)(optionator@0.9.3)(rollup@4.18.1)(terser@5.27.0)(typescript@5.5.4)(vite@5.3.3(@types/node@20.14.12)(terser@5.27.0)))(optionator@0.9.3)(prettier@3.3.3)(rollup@4.18.1)(storybook@8.1.11(@babel/preset-env@7.24.6(@babel/core@7.24.7))(encoding@0.1.13)(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(terser@5.27.0)(typescript@5.5.4)(vite@5.3.3(@types/node@20.14.12)(terser@5.27.0))(vue@3.4.33(typescript@5.5.4))
       '@storybook/addon-a11y':
-        specifier: ^8.1.11
-        version: 8.2.2(storybook@8.1.11(@babel/preset-env@7.24.6(@babel/core@7.24.7))(encoding@0.1.13)(react-dom@18.2.0(react@18.2.0))(react@18.2.0))
+        specifier: ^8.2.7
+        version: 8.2.7(storybook@8.1.11(@babel/preset-env@7.24.6(@babel/core@7.24.7))(encoding@0.1.13)(react-dom@18.2.0(react@18.2.0))(react@18.2.0))
       '@storybook/addon-essentials':
         specifier: 8.1.11
         version: 8.1.11(@types/react@18.2.51)(encoding@0.1.13)(prettier@3.3.3)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
@@ -2191,10 +2191,10 @@ packages:
       vite: ^5.2.0
       vue: ^3.4.0
 
-  '@storybook/addon-a11y@8.2.2':
-    resolution: {integrity: sha512-wW7aU0L+TCi+mTxvS6zmfVVe81vLcjBVNbhjzFHdWVwYej8rguwVpKXo2/UhQyXb38xe6qYICB5HAJyUYOO5Hg==}
+  '@storybook/addon-a11y@8.2.7':
+    resolution: {integrity: sha512-fHr8a/+srayg1S8nBt6Urdi/4tHc/fO08V+5xJNZBXqjmWCxBkxslDxg1fYPixwFctoorpX279SxeVP7p/Px4w==}
     peerDependencies:
-      storybook: ^8.2.2
+      storybook: ^8.2.7
 
   '@storybook/addon-actions@8.1.11':
     resolution: {integrity: sha512-jqYXgBgOVInStOCk//AA+dGkrfN8R7rDXA4lyu82zM59kvICtG9iqgmkSRDn0Z3zUkM+lIHZGoz0aLVQ8pxsgw==}
@@ -2214,10 +2214,10 @@ packages:
   '@storybook/addon-highlight@8.1.11':
     resolution: {integrity: sha512-Iu8FCAd4ETsB6QF4xDE/OLLZY3HOFopuLM5KE0f58jnccF5zAVGr1Rj/54p6TeK0PEou0tLRPFuZs+LPlEzrSw==}
 
-  '@storybook/addon-highlight@8.2.2':
-    resolution: {integrity: sha512-yDTRzzL+IJAymgY32xoZl09BGBVmPOUV2wVNGYcZkkBLvz2GSQMTfUe1/7F4jAx//+rFBu48/MQzsTC7Bk8kPw==}
+  '@storybook/addon-highlight@8.2.7':
+    resolution: {integrity: sha512-YhiLtyJ3NBNV3FQoQo8RFjj59QGSmmeSwRvCjoac6No2DY5vkMW5a8mW6ORr6QYd7ratRNtd3AsPqksZIehRwQ==}
     peerDependencies:
-      storybook: ^8.2.2
+      storybook: ^8.2.7
 
   '@storybook/addon-interactions@8.1.11':
     resolution: {integrity: sha512-nkc01z61mYM1kxf0ncBQLlFnnwW4RAVPfRSxK9BdbFN3AAvFiHCwVZdn71mi+C3L8oTqYR6o32e0RlXk+AjhHA==}
@@ -6697,8 +6697,8 @@ packages:
   vue-component-type-helpers@2.0.26:
     resolution: {integrity: sha512-sO9qQ8oC520SW6kqlls0iqDak53gsTVSrYylajgjmkt1c0vcgjsGSy1KzlDrbEx8pm02IEYhlUkU5hCYf8rwtg==}
 
-  vue-component-type-helpers@2.0.28:
-    resolution: {integrity: sha512-hoK0UsKXrXDY9zdpdk+drqOqYHpPhbmfQUJ2mFYK57+l73mQxcYyCteQsolllwGaxhWihT077+OA/FR5ZPTceg==}
+  vue-component-type-helpers@2.0.29:
+    resolution: {integrity: sha512-58i+ZhUAUpwQ+9h5Hck0D+jr1qbYl4voRt5KffBx8qzELViQ4XdT/Tuo+mzq8u63teAG8K0lLaOiL5ofqW38rg==}
 
   vue-devtools-stub@0.1.0:
     resolution: {integrity: sha512-RutnB7X8c5hjq39NceArgXg28WZtZpGc3+J16ljMiYnFhKvd8hITxSWQSQ5bvldxMDU6gG5mkxl1MTQLXckVSQ==}
@@ -9230,9 +9230,9 @@ snapshots:
       - vti
       - vue-tsc
 
-  '@storybook/addon-a11y@8.2.2(storybook@8.1.11(@babel/preset-env@7.24.6(@babel/core@7.24.7))(encoding@0.1.13)(react-dom@18.2.0(react@18.2.0))(react@18.2.0))':
+  '@storybook/addon-a11y@8.2.7(storybook@8.1.11(@babel/preset-env@7.24.6(@babel/core@7.24.7))(encoding@0.1.13)(react-dom@18.2.0(react@18.2.0))(react@18.2.0))':
     dependencies:
-      '@storybook/addon-highlight': 8.2.2(storybook@8.1.11(@babel/preset-env@7.24.6(@babel/core@7.24.7))(encoding@0.1.13)(react-dom@18.2.0(react@18.2.0))(react@18.2.0))
+      '@storybook/addon-highlight': 8.2.7(storybook@8.1.11(@babel/preset-env@7.24.6(@babel/core@7.24.7))(encoding@0.1.13)(react-dom@18.2.0(react@18.2.0))(react@18.2.0))
       axe-core: 4.8.3
       storybook: 8.1.11(@babel/preset-env@7.24.6(@babel/core@7.24.7))(encoding@0.1.13)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
 
@@ -9323,7 +9323,7 @@ snapshots:
     dependencies:
       '@storybook/global': 5.0.0
 
-  '@storybook/addon-highlight@8.2.2(storybook@8.1.11(@babel/preset-env@7.24.6(@babel/core@7.24.7))(encoding@0.1.13)(react-dom@18.2.0(react@18.2.0))(react@18.2.0))':
+  '@storybook/addon-highlight@8.2.7(storybook@8.1.11(@babel/preset-env@7.24.6(@babel/core@7.24.7))(encoding@0.1.13)(react-dom@18.2.0(react@18.2.0))(react@18.2.0))':
     dependencies:
       '@storybook/global': 5.0.0
       storybook: 8.1.11(@babel/preset-env@7.24.6(@babel/core@7.24.7))(encoding@0.1.13)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
@@ -9957,7 +9957,7 @@ snapshots:
       ts-dedent: 2.2.0
       type-fest: 2.19.0
       vue: 3.4.33(typescript@5.5.4)
-      vue-component-type-helpers: 2.0.28
+      vue-component-type-helpers: 2.0.29
     transitivePeerDependencies:
       - encoding
       - prettier
@@ -9972,7 +9972,7 @@ snapshots:
       ts-dedent: 2.2.0
       type-fest: 2.19.0
       vue: 3.4.33(typescript@5.5.4)
-      vue-component-type-helpers: 2.0.28
+      vue-component-type-helpers: 2.0.29
 
   '@storybook/vue3@8.2.2(storybook@8.2.2(@babel/preset-env@7.24.6(@babel/core@7.24.7)))(vue@3.4.33(typescript@5.5.4))':
     dependencies:
@@ -9983,7 +9983,7 @@ snapshots:
       ts-dedent: 2.2.0
       type-fest: 2.19.0
       vue: 3.4.33(typescript@5.5.4)
-      vue-component-type-helpers: 2.0.28
+      vue-component-type-helpers: 2.0.29
 
   '@testing-library/dom@10.1.0':
     dependencies:
@@ -14975,7 +14975,7 @@ snapshots:
 
   vue-component-type-helpers@2.0.26: {}
 
-  vue-component-type-helpers@2.0.28: {}
+  vue-component-type-helpers@2.0.29: {}
 
   vue-devtools-stub@0.1.0: {}
 
